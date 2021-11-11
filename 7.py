@@ -9,6 +9,3 @@ def sqrt(my_num):
 
 my_result = sqrt(int(input("jhkjuh")))
 print(my_result)
-
-# for i in range(100):
-#     my_function("aviel")
